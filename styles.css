@@ -1,0 +1,45 @@
+main {
+    font-family: Tahoma;
+    padding: 20px;
+    background-color: #d1d0ce;
+    border: 10px solid white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+span {
+    font-weight: normal;
+}
+img {
+    display:block;
+    max-width: 100%;
+    height: auto;
+}
+  h1 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  figcaption {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  ul {
+    text-align: left;
+  }
+  .white {
+    background-color: white;
+    padding: 23px 0 13 0;
+    
+  }
+  .water {
+    font-size: 14px;
+}
+  .title {
+    margin-bottom: 0
+  }
